@@ -1,0 +1,17 @@
+student,one,freshman,30
+student,two,freshman,90
+student,three,freshman,18
+student,four,freshman,82
+student,five,freshman,99
+student,six,freshman,87
+student,seven,freshman,4
+student,eight,sophomore,70
+student,nine,sophomore,84
+student,ten,sophomore,93
+student,eleven,sophomore,63
+student,twelve,sophomore,89
+student,thirteen,junior,40
+student,fourteen,junior,88
+student,fifteen,junior,76
+student,sixteen,junior,98
+student,sixteen,senior,98

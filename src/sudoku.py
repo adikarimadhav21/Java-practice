@@ -24,7 +24,7 @@ def sudoku(board):
                # display(board)
                 return True
             else:
-                board[r][c] = 0
+                board[r][c] = 0 #backtrack
     return False
 
 
